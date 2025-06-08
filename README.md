@@ -2,9 +2,6 @@
 
 A futuristic cyberpunk city simulation using pure **HTML**, **CSS**, and **JavaScript** — no libraries, no frameworks. This visual experience includes animated neon buildings, energy lines, floating holograms, ripple pulses, and matrix-like rain effects.
 
-## 📸 Preview
-![cyberpunk_city_animation](./assets/demo.gif)
-
 **[🚀 Try Live Demo](https://AidaHashemi.github.io/cyberpunk_city_animation/)**
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-blue?style=for-the-badge&logo=github)](https://AidaHashemi.github.io/cyberpunk_city_animation/)
